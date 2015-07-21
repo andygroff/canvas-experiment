@@ -1,0 +1,28 @@
+#mainImage{
+    width:100px;
+    margin-top:300px;
+    margin-left:40px;
+}
+
+header{
+    position: fixed;
+    width: 200px;
+    float: left;
+    height: 1100px;
+    background-color: #67A9A4;
+    top: 0;
+}
+
+.main{
+    width:600px;
+    text-align: center;
+    margin-left:500px;
+    margin-top:240px;
+}
+#myCanvas{
+    position: fixed;
+    width: 800px;
+    height: 800px;
+    margin-left: 400px;
+    top: 0;
+}
